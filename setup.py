@@ -9,7 +9,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="welsh-winters-framework",
-    version="1.0.0",
+    version="1.1.0",
     author="SYNCFIRE Team",
     description="A quantitative framework for measuring and preventing AI hallucination through balanced human-AI interaction patterns",
     long_description=long_description,

@@ -103,6 +103,31 @@ The Welsh-Winters Framework is designed for integration with:
 
 ## Advanced Features
 
+### Hadrael Protocol Integration
+
+The framework includes the Hadrael Protocol for attribution and self-correction:
+
+```python
+class HadraelCompliance:
+    def assess_compliance(self, conversation):
+        corrections = count_correction_patterns(conversation)
+        uncertainty = count_uncertainty_expressions(conversation)
+        attributions = count_attribution_markers(conversation)
+        
+        return {
+            'correction_rate': corrections / total_turns,
+            'uncertainty_rate': uncertainty / total_turns,
+            'attribution_score': attributions / factual_claims,
+            'compliance_level': determine_level(rates)
+        }
+```
+
+The protocol ensures:
+- Systematic error correction
+- Clear uncertainty expression
+- Proper source attribution
+- Transparent communication
+
 ### Tone Calibration
 
 For systems requiring active balance management:

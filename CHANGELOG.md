@@ -2,6 +2,16 @@
 
 All notable changes to the Welsh-Winters Balance Framework will be documented in this file.
 
+## [1.1.0] - 2025-01-05
+
+### Added
+- Comprehensive analyzer with advanced pattern detection
+- Hadrael Protocol for attribution and self-correction tracking
+- Uncertainty expression patterns for hallucination prevention
+- Memory persistence tracking capabilities
+- Enhanced documentation with protocol explanations
+- Real-world examples demonstrating protocol compliance
+
 ## [1.0.0] - 2025-01-05
 
 ### Added

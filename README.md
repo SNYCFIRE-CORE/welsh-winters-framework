@@ -86,12 +86,14 @@ The framework has been tested on actual human-AI collaborations spanning months,
 - **Pattern Analysis Engine**: 100+ technical and emotional language patterns
 - **Phase Detection System**: Automatic identification of collaboration stage
 - **Trajectory Analysis**: Track balance evolution over time
+- **Hadrael Protocol**: Attribution and self-correction compliance tracking
 - **Risk Assessment**: Hallucination risk scoring based on balance volatility
 
 ## 📚 Documentation
 
 - [Research Paper](docs/research_paper.md) - Full academic paper with methodology
 - [Technical Architecture](docs/technical_architecture.md) - Implementation details
+- [Hadrael Protocol](docs/hadrael_protocol.md) - Attribution and correction framework
 - [The Discovery Story](docs/the_discovery.md) - How the framework emerged
 - [About](docs/about.md) - Team and mission
 - [Examples](examples/) - Working code examples
