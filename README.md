@@ -91,8 +91,10 @@ The framework has been tested on actual human-AI collaborations spanning months,
 ## 📚 Documentation
 
 - [Research Paper](docs/research_paper.md) - Full academic paper with methodology
+- [Technical Architecture](docs/technical_architecture.md) - Implementation details
+- [The Discovery Story](docs/the_discovery.md) - How the framework emerged
+- [About](docs/about.md) - Team and mission
 - [Examples](examples/) - Working code examples
-- [API Reference](https://welsh-winters-framework.readthedocs.io) - Complete documentation
 
 ## 🤝 Contributing
 
@@ -122,7 +124,8 @@ If you use this framework in your research:
   title = {Welsh-Winters Balance Framework},
   subtitle = {A Quantitative Approach to AI Hallucination Prevention},
   year = {2025},
-  url = {https://github.com/SNYCFIRE-CORE/welsh-winters-framework}
+  url = {https://github.com/SNYCFIRE-CORE/welsh-winters-framework},
+  author = {SYNCFIRE Team}
 }
 ```
 
@@ -133,3 +136,7 @@ Apache License 2.0 - See [LICENSE](LICENSE) file for details.
 ---
 
 *Built from curiosity. Validated by science. Made for everyone.*
+
+## Connect
+
+Developed by the SYNCFIRE Team. Learn more about our work on [LinkedIn](https://www.linkedin.com/in/zlieberman/).

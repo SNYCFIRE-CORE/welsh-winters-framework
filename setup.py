@@ -10,16 +10,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="welsh-winters-framework",
     version="1.0.0",
-    author="Welsh-Winters Research Team",
-    author_email="research@welsh-winters-framework.org",
+    author="SYNCFIRE Team",
     description="A quantitative framework for measuring and preventing AI hallucination through balanced human-AI interaction patterns",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/welsh-winters-framework/welsh-winters-framework",
+    url="https://github.com/SNYCFIRE-CORE/welsh-winters-framework",
     project_urls={
-        "Bug Tracker": "https://github.com/welsh-winters-framework/welsh-winters-framework/issues",
-        "Documentation": "https://welsh-winters-framework.readthedocs.io",
-        "Research Paper": "https://welsh-winters-framework.org/paper",
+        "Bug Tracker": "https://github.com/SNYCFIRE-CORE/welsh-winters-framework/issues",
+        "Documentation": "https://github.com/SNYCFIRE-CORE/welsh-winters-framework/tree/main/docs",
     },
     classifiers=[
         "Development Status :: 4 - Beta",

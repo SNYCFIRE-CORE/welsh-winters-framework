@@ -95,7 +95,7 @@ black --check src tests
 ## Questions?
 
 Feel free to reach out:
-- Open a discussion in [GitHub Discussions](https://github.com/welsh-winters-framework/welsh-winters-framework/discussions)
-- Email: contribute@welsh-winters-framework.org
+- Open a discussion in [GitHub Discussions](https://github.com/SNYCFIRE-CORE/welsh-winters-framework/discussions)
+- Create an issue in our [Issue Tracker](https://github.com/SNYCFIRE-CORE/welsh-winters-framework/issues)
 
 Thank you for contributing to the Welsh-Winters Balance Framework!
