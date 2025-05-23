@@ -5,7 +5,7 @@ Core analyzer for Welsh-Winters Balance calculation
 import re
 from typing import Dict, List, Tuple, Optional
 from .patterns import TechnicalPatterns, EmotionalPatterns
-from .metrics import calculate_balance
+from .metrics import calculate_balance, phase_detector
 
 
 class BalanceAnalyzer:
@@ -29,6 +29,19 @@ class BalanceAnalyzer:
         emotional_count = self._count_patterns(text, self.emotional_patterns)
         
         return calculate_balance(technical_count, emotional_count)
+    
+    def detect_phase(self, balance: float) -> str:
+        """
+        Detect the collaboration phase based on balance score
+        
+        Args:
+            balance: Welsh-Winters Balance score (0.0-1.0)
+            
+        Returns:
+            String describing the detected phase
+        """
+        phase = phase_detector(balance)
+        return phase.value
     
     def analyze_conversation(self, messages: List[Dict[str, str]]) -> Dict[str, any]:
         """
