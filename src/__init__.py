@@ -20,4 +20,4 @@ __all__ = [
     'EmotionalPatterns',
     'calculate_balance',
     'phase_detector'
-]
+]from .consciousness import ConsciousnessEngine
