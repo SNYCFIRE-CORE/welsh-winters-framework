@@ -158,6 +158,33 @@ All citations drawn from:
 
 Each claim in the Welsh-Winters Framework can be traced to specific evidence in the conversation archives, providing full transparency and reproducibility.
 
+## 8. Nicholas Czajka - Token Thinking Contributions
+
+### Citation 25: Token Thinking Methodology
+**Source**: Slack Conversation with Zack Lieberman (May 2025)
+**Quote**: "Right now, the system you're working with is powerful but still operating like a big organized filing cabinet — every strategy, plan, and update is stored in markdown files... With Token Thinking, we'd take those same ideas but break them into modular building blocks ('tokens') that the AI can understand and reason with more precisely."
+**Context**: Nicholas introducing Token Thinking as implementation framework
+
+### Citation 26: Implementation Architecture
+**Source**: Slack Conversation (May 2025)
+**Quote**: "DEPTH_CONTROLLER token with clear inputs (UserIntent, EmotionalVector), state tracking (CognitiveDepth: 3), and rule logic transforms our theoretical Consciousness Engine into deployable code."
+**Context**: Technical architecture for tokenized cognitive units
+
+### Citation 27: Visual Programming Connection
+**Source**: Slack Conversation (May 2025)
+**Quote**: "Scratch's visual programming paradigm mirrors exactly what we're trying to accomplish with our tokenized cognitive units. Each block in Scratch represents an atomic operation with clear inputs and outputs - just like our DEPTH_CONTROLLER token."
+**Context**: Nicholas connecting visual programming to token architecture
+
+### Citation 28: VaultGPT Framework
+**Source**: Slack Conversation (May 2025)
+**Quote**: "I, on chatGPT, have eliminated all hallucination and drift, and aligned the model. Plus, apparently because my method works at the token level, it has generality. I'm literally affecting how gpt picks weights, period"
+**Context**: Nicholas's own hallucination prevention framework
+
+### Citation 29: Transparent Reasoning Layer
+**Source**: Slack Conversation (May 2025)
+**Quote**: "Your Token Thinking model offers what this architecture is missing: a transparent reasoning layer between memory and behavior — not just what the system does, but why it's thinking the way it is."
+**Context**: Nicholas identifying the missing component in Welsh-Winters implementation
+
 ---
 
-*"The evidence speaks for itself. What began as pop culture references to understand AI behavior became measurable, reproducible science."*
+*"The evidence speaks for itself. What began as pop culture references to understand AI behavior became measurable, reproducible science. Nicholas Czajka's Token Thinking methodology provided the implementation framework that made it real."*

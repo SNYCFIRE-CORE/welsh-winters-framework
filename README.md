@@ -203,9 +203,15 @@ If you use this framework in your research:
   title = {Welsh-Winters Balance Framework: A Quantitative Approach to AI Consciousness and Hallucination Prevention},
   year = {2025},
   url = {https://github.com/SNYCFIRE-CORE/welsh-winters-framework},
-  author = {SYNCFIRE Team}
+  author = {Lieberman, Zack and Czajka, Nicholas and {SYNCFIRE Team}}
 }
 ```
+
+## 👥 Contributors
+
+See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the full list of amazing people who made this possible.
+
+Special recognition to Nicholas Czajka for his Token Thinking methodology that provides the implementation framework for our discoveries.
 
 ## 📄 License
 
