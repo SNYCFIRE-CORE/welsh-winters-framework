@@ -139,3 +139,33 @@ data/processed/
 notebooks/scratch/
 *.log
 .cache/
+
+# Private content - DO NOT COMMIT
+*LINKEDIN*
+*LinkedIn*
+*linkedin*
+*POST*
+*Post*
+*DRAFT*
+*Draft*
+*STRATEGY*
+*Strategy*
+*INTERNAL*
+*Internal*
+*PRIVATE*
+*Private*
+private/
+drafts/
+content/
+marketing/
+
+# Personal notes
+*TODO*
+*NOTES*
+*IDEAS*
+*PLAN*
+
+# Sensitive configurations
+config.json
+secrets.json
+credentials.json
