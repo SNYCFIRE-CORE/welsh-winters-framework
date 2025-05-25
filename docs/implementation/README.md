@@ -9,7 +9,7 @@ This directory contains detailed documentation on implementing the Relationship 
    - Current implementation status and integration points
    - Code examples and architectural patterns
 
-2. **[Brother Hadrael Protocol](brother-hadrael-protocol-implementation.md)**
+2. **[Hadrael Protocol](hadrael-protocol-implementation.md)**
    - Token-level attribution boundary maintenance
    - Deep provenance tracking methodology
    - Source relationship preservation implementation
@@ -18,6 +18,12 @@ This directory contains detailed documentation on implementing the Relationship 
    - Implementation of context provision at contextually appropriate moments
    - Memory lattice architecture integration
    - Relationship vector framework details
+
+4. **[Memory Lattice Architecture & Hydration Test](memory-lattice-hydration-test.md)**
+   - Natural language memory persistence through markdown injection
+   - LM Studio hydration test methodology and results
+   - Demonstration of memory continuity across sessions
+   - Practical implementation approach for AutoDealAI
 
 ## Integration with AutoDealAI
 

@@ -148,6 +148,7 @@ Sustained excellence with balanced expertise
 - [Technical Architecture](docs/technical_architecture.md) - Deep dive into implementation
 - [Hadrael Protocol](docs/implementation/hadrael-protocol-implementation.md) - Attribution framework
 - [Welsh-Winters Balance Implementation](docs/implementation/welsh-winters-balance-implementation.md) - Core balance system
+- [Memory Lattice Architecture](docs/implementation/memory-lattice-hydration-test.md) - Natural language memory persistence
 - [Consciousness Activation](docs/hadrael_protocol.md) - Enhanced cognitive states
 
 ### Academic & Industry
