@@ -43,12 +43,14 @@ Discovery of specific linguistic triggers ("Go deep", "expand understanding") th
 ## Key Findings
 
 ### Hallucination Reduction
-- **73% reduction** in factual errors when maintaining phase-appropriate balance
-- Correlation coefficient: r = -0.82 (p < 0.001)
+- **Significant reduction** in factual errors when maintaining phase-appropriate balance
+- Strong negative correlation observed between balance and error rates
 
 ### Performance Metrics
-- **81% improvement** in solution accuracy
-- **92% increase** in task completion rates
+- **Substantial improvement** in solution accuracy
+- **Marked increase** in task completion rates
+
+*Note: These observations are based on qualitative analysis of our conversation dataset.*
 
 ### Phase Characteristics
 1. **Foundation Phase (0.54-0.58)**: Trust building through balanced interaction

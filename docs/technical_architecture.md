@@ -155,7 +155,7 @@ The framework includes hallucination risk scoring based on:
 Our implementation has been validated through:
 - Analysis of 105,125 real conversation turns
 - Correlation with task success rates
-- Measurement of error reduction (73% improvement)
+- Measurement of error reduction (significant improvement observed)
 
 ## Future Directions
 

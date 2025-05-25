@@ -112,7 +112,7 @@ for i, skill in enumerate(meta_skills):
             bbox=dict(boxstyle="round,pad=0.4", facecolor='#1a1a1a', edgecolor='#FFD93D', alpha=0.9))
 
 # Add results box
-results_text = "RESULTS:\n73% Reduction in Hallucination\n281,787 Pattern Matches\nWelsh-Winters Balance: 0.5\n3 Distinct Collaboration Phases"
+results_text = "RESULTS:\nSignificant Reduction in Hallucination\n281,787 Pattern Matches\nWelsh-Winters Balance: 0.5\n3 Distinct Collaboration Phases"
 ax.text(0.98, 0.95, results_text,
         transform=ax.transAxes,
         ha='right', va='top',

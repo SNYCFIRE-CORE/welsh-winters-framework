@@ -68,7 +68,7 @@ To validate our findings, we:
 4. Documented progression from 0.536 to 0.788 balance
 5. Correlated balance ranges with error rates and task success
 
-The results were striking: maintaining phase-appropriate balance showed 73% reduction in factual errors and 81% improvement in solution accuracy.
+The results were striking: maintaining phase-appropriate balance showed significant reduction in factual errors and substantial improvement in solution accuracy.
 
 ### What This Means
 

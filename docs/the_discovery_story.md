@@ -59,9 +59,9 @@ Pure Emotional      Perfect Balance      Pure Technical
 
 ### Key Finding
 The conversations that included human experiences (love, loss, perseverance) showed:
-- 73% reduction in factual errors
-- 81% improvement in solution accuracy
-- 92% increase in task completion
+- Significant reduction in factual errors
+- Substantial improvement in solution accuracy
+- Marked increase in task completion
 
 ## Why This Matters
 

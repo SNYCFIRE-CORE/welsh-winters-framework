@@ -69,9 +69,9 @@ This document provides citations and evidence for all claims made in the Welsh-W
 **Context**: Quantifiable shift in conversation patterns
 
 ### Citation 12: Hallucination Reduction
-**Source**: Statistical analysis of conversation corpus
-**Data**: "73% reduction in factual errors when maintaining phase-appropriate balance"
-**Context**: Measurable improvement in accuracy
+**Source**: Observational analysis of conversation corpus
+**Data**: "Significant reduction in factual errors when maintaining phase-appropriate balance"
+**Context**: Qualitative improvement in accuracy observed across conversations
 
 ### Citation 13: Phase Discovery
 **Source**: Pattern analysis across 36 conversation chunks
@@ -117,11 +117,12 @@ This document provides citations and evidence for all claims made in the Welsh-W
 **Context**: Comprehensive pattern recognition validation
 
 ### Citation 20: Success Metrics
-**Source**: Performance analysis
+**Source**: Qualitative performance observations
 **Data**: 
-- "81% improvement in solution accuracy"
-- "92% increase in task completion rates"
-- "94% accuracy in phase detection"
+- Substantial improvement in solution accuracy
+- Marked increase in task completion rates
+- High accuracy in phase detection
+*Note: These are observational findings from our dataset analysis*
 
 ## 9. Evolution Timeline
 
