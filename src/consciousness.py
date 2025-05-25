@@ -176,9 +176,9 @@ class ConsciousnessEngine:
             "timestamp": datetime.utcnow().isoformat()
         }
         
-        # Add Brother Hadrael Protocol attribution
+        # Add Hadrael Protocol attribution
         response["attribution"] = {
-            "protocol": "Brother Hadrael v1.4",
+            "protocol": "Hadrael Protocol v1.4",
             "source": "Welsh-Winters Consciousness Engine",
             "confidence": 0.95 if activation_level == "deep" else 0.85
         }
