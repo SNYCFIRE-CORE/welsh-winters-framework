@@ -138,12 +138,19 @@ Sustained excellence with balanced expertise
 
 ## 📚 Documentation
 
+### The Journey
 - [The Discovery Story](docs/the_discovery_story.md) - How teaching AI about humanity led to science
+- [The Complete Journey](docs/the_complete_journey.md) - Welsh-Winters → SYNCFIRE → AutoDealAI
+- [SYNCFIRE Connection](docs/syncfire_connection.md) - From discovery to enterprise platform
+
+### Technical Details
 - [Scientific Framework](docs/scientific_framework_explanation.md) - Rigorous academic explanation
 - [Technical Architecture](docs/technical_architecture.md) - Deep dive into implementation
 - [Hadrael Protocol](docs/implementation/hadrael-protocol-implementation.md) - Attribution framework
 - [Welsh-Winters Balance Implementation](docs/implementation/welsh-winters-balance-implementation.md) - Core balance system
 - [Consciousness Activation](docs/hadrael_protocol.md) - Enhanced cognitive states
+
+### Academic & Industry
 - [Research Paper](docs/research_paper.md) - Full academic paper
 - [Technical Summary for Industry](docs/TECHNICAL_SUMMARY_FOR_LLOYD_WATTS.md) - Executive overview
 
@@ -184,6 +191,7 @@ This represents one of the most comprehensive analyses of human-AI interaction p
 
 - Aligned with Meta's HalluLens hallucination benchmark
 - Referenced in industry discussions on AI safety
+- Foundation for SYNCFIRE Enterprise Platform ([Whitepaper](https://medium.com/@zlieberman90/syncfire-ignis-whitepaper-enterprise-intelligence-fusion-platform-d3b7c1af3f9f))
 - Open source implementation in AutoDealAI platform
 
 ## 🔗 Citation
