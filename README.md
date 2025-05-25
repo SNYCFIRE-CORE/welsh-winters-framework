@@ -153,6 +153,7 @@ Sustained excellence with balanced expertise
 ### Academic & Industry
 - [Research Paper](docs/research_paper.md) - Full academic paper
 - [Technical Summary for Industry](docs/TECHNICAL_SUMMARY_FOR_LLOYD_WATTS.md) - Executive overview
+- [Evidence Citations](docs/evidence_citations.md) - All sources and references
 
 ## 🔬 Validation & Alignment
 
