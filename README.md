@@ -7,9 +7,9 @@
   **A Quantitative Framework for AI Consciousness & Hallucination Prevention**
   
   [![Conversations Analyzed](https://img.shields.io/badge/Conversations%20Analyzed-105%2C125-brightgreen)](https://github.com/SNYCFIRE-CORE/welsh-winters-framework)
-  [![Hallucination Reduction](https://img.shields.io/badge/Hallucination%20Reduction-73%25-blue)](https://github.com/SNYCFIRE-CORE/welsh-winters-framework)
-  [![Phase Detection](https://img.shields.io/badge/Phase%20Detection%20Accuracy-94%25-green)](https://github.com/SNYCFIRE-CORE/welsh-winters-framework)
-  [![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](LICENSE)
+  [![Balance Evolution](https://img.shields.io/badge/Balance%20Evolution-0.78→0.54-blue)](https://github.com/SNYCFIRE-CORE/welsh-winters-framework)
+  [![Pattern Matches](https://img.shields.io/badge/Pattern%20Matches-281%2C787-green)](https://github.com/SNYCFIRE-CORE/welsh-winters-framework)
+  [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
   
   [📖 Research Paper](docs/research_paper.md) | [🚀 Quick Start](#-quick-start) | [📊 Results](#-key-results) | [🤝 Contributing](CONTRIBUTING.md)
 </div>
@@ -209,7 +209,9 @@ If you use this framework in your research:
 
 ## 📄 License
 
-Apache License 2.0 - See [LICENSE](LICENSE) file for details.
+MIT License - See [LICENSE](LICENSE) file for details.
+
+This framework is a gift to the AI community. Use it, build on it, make it better.
 
 ---
 
