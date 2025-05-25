@@ -56,10 +56,10 @@ Pure Emotional      Perfect Balance      Pure Technical
 
 From our analysis of 105,125 conversation turns:
 
-- **73% reduction** in factual errors when maintaining phase-appropriate balance
-- **81% improvement** in solution accuracy within optimal balance ranges
-- **92% increase** in successful task completion rates
-- **94% accuracy** in automatic phase detection
+- **Balance Evolution**: Measured progression from 0.78 → 0.54 toward optimal 0.5
+- **Memory Persistence**: Average 0.31 memory references per conversation turn
+- **Pattern Recognition**: 281,787 total pattern matches across corpus
+- **Phase Detection**: Three distinct collaboration phases identified and validated
 
 <div align="center">
   <img src="results/technical_vs_emotional.png" alt="Technical vs Emotional Patterns" width="600">
